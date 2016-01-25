@@ -104,6 +104,13 @@ body {
     background: #0077B5;
 }
 
+.box {
+    -webkit-transition: .5s ease-in-out;
+    -moz-transition: .5s ease-in-out;
+    -o-transition: .5s ease-in-out;
+    transition: .5s ease-in-out;
+}
+
 .box:hover {
     box-shadow: 0 0 30px white;
 }
