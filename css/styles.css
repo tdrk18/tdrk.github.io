@@ -27,7 +27,7 @@ body {
     /*background: orange;*/
     padding: 15px;
     background: url("../image/glasses.jpg") no-repeat;
-    background-size: 95%;
+    background-size: 100%;
     /*background-position: top;*/
     margin: 7px;
 }
@@ -54,9 +54,9 @@ body {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     float: left;
-    width: 45%;
+    width: 40%;
     height: 125px;
-    margin: 20px;
+    margin: 20px 50px;
     /*border: 5px solid white;    */
     /*padding: 30% 30%; */
 }
