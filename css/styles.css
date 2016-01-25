@@ -104,6 +104,10 @@ body {
     background: #0077B5;
 }
 
+.box:hover {
+    box-shadow: 0 0 30px white;
+}
+
 #footer {
     /*background: green;*/
     padding: 10px;
