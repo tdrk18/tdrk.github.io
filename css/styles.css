@@ -26,7 +26,7 @@ body {
 #main {
     /*background: orange;*/
     padding: 15px;
-    background: url("../image/glasses.jpg") no-repeat;
+    background: url("../image/glasses.jpg") repeat-y;
     background-size: 100%;
     /*background-position: top;*/
     margin: 7px;
