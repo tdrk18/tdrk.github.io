@@ -10,7 +10,17 @@ body {
 }
 
 #header h1 {
+    position: relative;
     font-size: 32px;
+    margin: 10px;
+    text-align: center;
+}
+
+#header img {
+    position: absolute;
+    width: 50px;
+    height: auto;
+    margin: 0 30px;
 }
 
 #main {
